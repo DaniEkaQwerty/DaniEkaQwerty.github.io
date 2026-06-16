@@ -687,3 +687,7 @@ ul { list-style: none; }
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+.skill-group:nth-child(4) { background: var(--sky-50); border-color: var(--sky-200); }
+.skill-group:nth-child(4) h4 { color: var(--sky-600); border-bottom-color: var(--sky-200); }
+.skill-group:nth-child(4) li::before { background: var(--sky-600); }
