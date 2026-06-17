@@ -691,3 +691,7 @@ ul { list-style: none; }
 .skill-group:nth-child(4) { background: var(--sky-50); border-color: var(--sky-200); }
 .skill-group:nth-child(4) h4 { color: var(--sky-600); border-bottom-color: var(--sky-200); }
 .skill-group:nth-child(4) li::before { background: var(--sky-600); }
+
+.skill-group:nth-child(5) { background: var(--rose-50); border-color: var(--rose-200); }
+.skill-group:nth-child(5) h4 { color: var(--rose-600); border-bottom-color: var(--rose-200); }
+.skill-group:nth-child(5) li::before { background: var(--rose-600); }
